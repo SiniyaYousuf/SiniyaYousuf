@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SiniyaYousuf
 - 👀 I’m interested in learning new technologies and exploring latest trends.
-- 🌱 I’m currently learning Machine Learning algorithms,Data Visualization techniques,Natural Language Processing and GenAI.
 - 📫 siniyayousuf@gmail.com
 - 😄 Pronouns: She/Her
 
